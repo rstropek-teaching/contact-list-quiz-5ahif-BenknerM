@@ -1,0 +1,11 @@
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.deps.json
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.runtimeconfig.json
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.runtimeconfig.dev.json
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.dll
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\bin\Release\netcoreapp2.0\WebApplication1.pdb
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.AssemblyInfo.cs
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.dll
+C:\Users\Matthias\source\repos\WebApplication1\WebApplication1\obj\Release\netcoreapp2.0\WebApplication1.pdb
